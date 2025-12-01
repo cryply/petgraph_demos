@@ -28,8 +28,10 @@ jupyter notebook
 
 
 ## License
+This repository is released under the CC0 1.0 Universal Public Domain Dedication.
 
-This project is licensed under the Apache License 2.0.
+To the extent possible under law, the author has waived all copyrights and related rights to the contents of this repository. You are free to copy, modify, distribute, and use the material for any purpose, including commercial uses, without asking permission or providing attribution.
+
 
 ## Why Evcxr?
 
